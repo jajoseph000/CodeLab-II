@@ -4,6 +4,7 @@
 #include <vector>
 #include <random>
 
+
 using namespace std;
 
 // Store a joke question and its answer
